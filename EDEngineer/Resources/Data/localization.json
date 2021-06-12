@@ -2366,7 +2366,7 @@
       "ru": "Данные",
       "pl": "Dane",
       "cs": "Data",
-      "cn": "数据连接扫描仪"
+      "cn": "数据材料"
     },
     "Commodity": {
       "es": "Mercancía",
@@ -6088,7 +6088,7 @@
       "ru": "Оснащение",
       "pl": null,
       "cs": "Výzbroj",
-      "cn": "装备"
+      "cn": "舾装"
     },
     "Cargo History (require API)": {
       "es": "Historial de Carga (Requiere API)",
@@ -8392,7 +8392,7 @@
       "pl": null,
       "cs": null,
       "nl": null,
-      "cn": null
+      "cn": "人造材料"
     },
     "Suit": {
       "es": null,
